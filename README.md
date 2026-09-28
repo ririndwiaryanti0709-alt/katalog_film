@@ -1,5 +1,3 @@
-#Movie Catalog Flutter
-
 <p align="center">
   <img src="https://flutter.dev/assets/lockup_flutter_vertical.7e432d07dc23bc4f2c04fbaac8d8670e.png" alt="Flutter Logo" width="100">
 </p>
